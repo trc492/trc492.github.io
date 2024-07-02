@@ -35,4 +35,6 @@ It is a good practice to create subsystems as separate Java classes that encapsu
 
 ## Debugging
 
+## Writing Auto-Assist Tasks
+
 ## Writing Autonomous Code
